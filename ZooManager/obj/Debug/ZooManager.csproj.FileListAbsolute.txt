@@ -1,0 +1,15 @@
+D:\Programação\Math\.NET Development\ZooManager\ZooManager\bin\Debug\ZooManager.exe.config
+D:\Programação\Math\.NET Development\ZooManager\ZooManager\bin\Debug\ZooManager.exe
+D:\Programação\Math\.NET Development\ZooManager\ZooManager\bin\Debug\ZooManager.pdb
+D:\Programação\Math\.NET Development\ZooManager\ZooManager\obj\Debug\ZooManager.csproj.AssemblyReference.cache
+D:\Programação\Math\.NET Development\ZooManager\ZooManager\obj\Debug\MainWindow.g.cs
+D:\Programação\Math\.NET Development\ZooManager\ZooManager\obj\Debug\App.g.cs
+D:\Programação\Math\.NET Development\ZooManager\ZooManager\obj\Debug\ZooManager_MarkupCompile.cache
+D:\Programação\Math\.NET Development\ZooManager\ZooManager\obj\Debug\ZooManager_MarkupCompile.lref
+D:\Programação\Math\.NET Development\ZooManager\ZooManager\obj\Debug\MainWindow.baml
+D:\Programação\Math\.NET Development\ZooManager\ZooManager\obj\Debug\ZooManager.g.resources
+D:\Programação\Math\.NET Development\ZooManager\ZooManager\obj\Debug\ZooManager.Properties.Resources.resources
+D:\Programação\Math\.NET Development\ZooManager\ZooManager\obj\Debug\ZooManager.csproj.GenerateResource.cache
+D:\Programação\Math\.NET Development\ZooManager\ZooManager\obj\Debug\ZooManager.csproj.CoreCompileInputs.cache
+D:\Programação\Math\.NET Development\ZooManager\ZooManager\obj\Debug\ZooManager.exe
+D:\Programação\Math\.NET Development\ZooManager\ZooManager\obj\Debug\ZooManager.pdb
